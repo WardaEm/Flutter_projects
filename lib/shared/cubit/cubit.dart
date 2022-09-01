@@ -22,11 +22,6 @@ static AppCubit get(context)=>BlocProvider.of(context);
   ArchivedTaskScreen(),
  ];
 
- // List<Widget> screens = [
- //   NewTasksScreen(),
- //   DoneTasksScreen(),
- //   ArchivedTasksScreen(),
- // ];
 
  List<String> titles = [
   'New Tasks',
